@@ -1,7 +1,7 @@
 👋👋👋👋👋
 
 # 关于我
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=tidesec&count_private=true&show_icons=true" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=icssec&count_private=true&show_icons=true" width="380">
 - 工控安全从业者
 - WEB安全资深爱好者
 
